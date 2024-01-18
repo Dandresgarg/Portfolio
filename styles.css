@@ -633,6 +633,10 @@ textarea::placeholder {
          text-align: center; /* Centra el texto */
     }
 
+    .container-nav-contact a{
+        color: #FF7A00;
+    }
+
 
 
     
